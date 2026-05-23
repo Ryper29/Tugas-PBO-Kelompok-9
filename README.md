@@ -5,6 +5,14 @@ Tugas Pemrograman Berorientasi Objek (PBO) berbahasa **Java** dengan tema simula
 > **Mata Kuliah:** Pemrograman Berorientasi Objek  
 > **Pengampu:** Dr. Eng. Helmy Fitriawan, S.T., M.Sc.
 
+## Anggota Kelompok 9
+
+| No | Nama | NPM |
+|---|---|---|
+| 1 | M. Faqih Dwinanda | 2415061056 |
+| 2 | Rifki Yudika Perdana | 2415061090 |
+| 3 | Riffa Yudika Permana | 2415061091 |
+
 ## Struktur Project
 
 ```
