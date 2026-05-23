@@ -1,0 +1,15 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Zip backups
+*.zip
+
+# IDE files
+.idea/
+*.iml
+.vscode/
