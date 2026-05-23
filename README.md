@@ -1,6 +1,9 @@
-# PBO - Dungeons & Dragons (Java)
+# Tugas PBO Kelompok 9 - Dungeons & Dragons (Java)
 
 Tugas Pemrograman Berorientasi Objek (PBO) berbahasa **Java** dengan tema simulasi pertempuran **Dungeons & Dragons**.
+
+> **Mata Kuliah:** Pemrograman Berorientasi Objek  
+> **Pengampu:** Dr. Eng. Helmy Fitriawan, S.T., M.Sc.
 
 ## Struktur Project
 
